@@ -33,9 +33,9 @@
 | лого | 14 | auto | −0,3 px | SemiBold | 1 |
 | мова ENG/UA | 13 | auto | 0 | Regular | 1 |
 | eyebrow | 12 | auto | 1,7 px | Medium | 1 |
-| текст кнопок (Open portfolio — шари, Let's talk — на око) | 11 | auto | 1,3 px | Medium | 2 |
+| текст кнопки Open portfolio | 11 | auto | 1,3 px | Medium | 1 |
 | мітки закладок | 10,5 | auto | 0,1 px | Medium | 5 |
-| футер (два з шарів, третій на око) | 10 | auto | 1 px | Regular | 3 |
+| футер | 10 | auto | 1 px | Regular | 2 |
 | обкладинка: мітки | 9 | auto | 1,2 px | Medium | 2 |
 | обкладинка: гасло | 16 | 120 % | −0,4 px | Medium | 1 |
 | обкладинка: імʼя | 14 | auto | 0,2 px | SemiBold | 1 |
